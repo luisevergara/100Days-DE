@@ -16,3 +16,9 @@ Can you have multiple statements of the same commands on the same query in SQL?
 Can you protect databases somehow from accidental DELETE misfires?
 
 The order in which you write the JOIN statements in SQL matters right? How does the system execute multiple JOIN statements to make the final table?
+
+How does SQL handle Falsey and Truthy Values?
+
+How does subqueries change use cases when used in the SELECT, FROM and WHERE clauses?
+
+Which has better performance, CTE or Subqueries?
