@@ -12,3 +12,7 @@ What are the wildcards used in Microsoft SQL Server Management Studio in compari
 Can you have multiple statements of the same commands on the same query in SQL?
 
 ## Day 03
+
+Can you protect databases somehow from accidental DELETE misfires?
+
+The order in which you write the JOIN statements in SQL matters right? How does the system execute multiple JOIN statements to make the final table?
