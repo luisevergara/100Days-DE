@@ -8,6 +8,7 @@
     - PARTITION BY divides result sets into partitions for window functions.
     - The GROUP BY statement is going to reduce the number of rows in our output by actually rolling them up and then calculating the sums or averages for each group.
 - Create Tables In Memory With CTEs WITH [Table Name] AS (Subquery)
+    - You can create multiple CTEs as long as you keep adding commas.
 - Difference between CTEs and Temp Tables CREATE TABLE #temp_table ()
     - Mass Insert using a SELECT query
     - Use cases in Stored Procedures and Improving Processing Speeds
