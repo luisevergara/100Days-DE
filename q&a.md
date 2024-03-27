@@ -22,3 +22,9 @@ How does SQL handle Falsey and Truthy Values?
 How does subqueries change use cases when used in the SELECT, FROM and WHERE clauses?
 
 Which has better performance, CTE or Subqueries?
+
+## Day 04
+
+Are Stored Procedures the same as Jobs?
+
+Can all flavors of SQL compare datetime types with an =?
