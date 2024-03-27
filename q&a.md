@@ -26,3 +26,5 @@ Which has better performance, CTE or Subqueries?
 ## Day 04
 
 Are Stored Procedures the same as Jobs?
+
+Can all flavors of SQL compare datetime types with an =?
